@@ -1,0 +1,507 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C54B86281C63C26700DC67D7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C54B86271C63C26700DC67D7 /* AppDelegate.swift */; };
+		C54B862A1C63C26700DC67D7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C54B86291C63C26700DC67D7 /* ViewController.swift */; };
+		C54B862D1C63C26700DC67D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C54B862B1C63C26700DC67D7 /* Main.storyboard */; };
+		C54B862F1C63C26700DC67D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C54B862E1C63C26700DC67D7 /* Assets.xcassets */; };
+		C54B86321C63C26700DC67D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C54B86301C63C26700DC67D7 /* LaunchScreen.storyboard */; };
+		C54B863D1C63C26700DC67D7 /* yourColbyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C54B863C1C63C26700DC67D7 /* yourColbyTests.swift */; };
+		C54B86481C63C26700DC67D7 /* yourColbyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C54B86471C63C26700DC67D7 /* yourColbyUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C54B86391C63C26700DC67D7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C54B861C1C63C26700DC67D7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C54B86231C63C26700DC67D7;
+			remoteInfo = yourColby;
+		};
+		C54B86441C63C26700DC67D7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C54B861C1C63C26700DC67D7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C54B86231C63C26700DC67D7;
+			remoteInfo = yourColby;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C54B86241C63C26700DC67D7 /* yourColby.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yourColby.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C54B86271C63C26700DC67D7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C54B86291C63C26700DC67D7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C54B862C1C63C26700DC67D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C54B862E1C63C26700DC67D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C54B86311C63C26700DC67D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C54B86331C63C26700DC67D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C54B86381C63C26700DC67D7 /* yourColbyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yourColbyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C54B863C1C63C26700DC67D7 /* yourColbyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = yourColbyTests.swift; sourceTree = "<group>"; };
+		C54B863E1C63C26700DC67D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C54B86431C63C26700DC67D7 /* yourColbyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yourColbyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C54B86471C63C26700DC67D7 /* yourColbyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = yourColbyUITests.swift; sourceTree = "<group>"; };
+		C54B86491C63C26700DC67D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C54B86211C63C26700DC67D7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C54B86351C63C26700DC67D7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C54B86401C63C26700DC67D7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C54B861B1C63C26700DC67D7 = {
+			isa = PBXGroup;
+			children = (
+				C54B86261C63C26700DC67D7 /* yourColby */,
+				C54B863B1C63C26700DC67D7 /* yourColbyTests */,
+				C54B86461C63C26700DC67D7 /* yourColbyUITests */,
+				C54B86251C63C26700DC67D7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C54B86251C63C26700DC67D7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C54B86241C63C26700DC67D7 /* yourColby.app */,
+				C54B86381C63C26700DC67D7 /* yourColbyTests.xctest */,
+				C54B86431C63C26700DC67D7 /* yourColbyUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C54B86261C63C26700DC67D7 /* yourColby */ = {
+			isa = PBXGroup;
+			children = (
+				C54B86271C63C26700DC67D7 /* AppDelegate.swift */,
+				C54B86291C63C26700DC67D7 /* ViewController.swift */,
+				C54B862B1C63C26700DC67D7 /* Main.storyboard */,
+				C54B862E1C63C26700DC67D7 /* Assets.xcassets */,
+				C54B86301C63C26700DC67D7 /* LaunchScreen.storyboard */,
+				C54B86331C63C26700DC67D7 /* Info.plist */,
+			);
+			path = yourColby;
+			sourceTree = "<group>";
+		};
+		C54B863B1C63C26700DC67D7 /* yourColbyTests */ = {
+			isa = PBXGroup;
+			children = (
+				C54B863C1C63C26700DC67D7 /* yourColbyTests.swift */,
+				C54B863E1C63C26700DC67D7 /* Info.plist */,
+			);
+			path = yourColbyTests;
+			sourceTree = "<group>";
+		};
+		C54B86461C63C26700DC67D7 /* yourColbyUITests */ = {
+			isa = PBXGroup;
+			children = (
+				C54B86471C63C26700DC67D7 /* yourColbyUITests.swift */,
+				C54B86491C63C26700DC67D7 /* Info.plist */,
+			);
+			path = yourColbyUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C54B86231C63C26700DC67D7 /* yourColby */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C54B864C1C63C26700DC67D7 /* Build configuration list for PBXNativeTarget "yourColby" */;
+			buildPhases = (
+				C54B86201C63C26700DC67D7 /* Sources */,
+				C54B86211C63C26700DC67D7 /* Frameworks */,
+				C54B86221C63C26700DC67D7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = yourColby;
+			productName = yourColby;
+			productReference = C54B86241C63C26700DC67D7 /* yourColby.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C54B86371C63C26700DC67D7 /* yourColbyTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C54B864F1C63C26700DC67D7 /* Build configuration list for PBXNativeTarget "yourColbyTests" */;
+			buildPhases = (
+				C54B86341C63C26700DC67D7 /* Sources */,
+				C54B86351C63C26700DC67D7 /* Frameworks */,
+				C54B86361C63C26700DC67D7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C54B863A1C63C26700DC67D7 /* PBXTargetDependency */,
+			);
+			name = yourColbyTests;
+			productName = yourColbyTests;
+			productReference = C54B86381C63C26700DC67D7 /* yourColbyTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C54B86421C63C26700DC67D7 /* yourColbyUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C54B86521C63C26700DC67D7 /* Build configuration list for PBXNativeTarget "yourColbyUITests" */;
+			buildPhases = (
+				C54B863F1C63C26700DC67D7 /* Sources */,
+				C54B86401C63C26700DC67D7 /* Frameworks */,
+				C54B86411C63C26700DC67D7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C54B86451C63C26700DC67D7 /* PBXTargetDependency */,
+			);
+			name = yourColbyUITests;
+			productName = yourColbyUITests;
+			productReference = C54B86431C63C26700DC67D7 /* yourColbyUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C54B861C1C63C26700DC67D7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Scott Lehman";
+				TargetAttributes = {
+					C54B86231C63C26700DC67D7 = {
+						CreatedOnToolsVersion = 7.2.1;
+					};
+					C54B86371C63C26700DC67D7 = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = C54B86231C63C26700DC67D7;
+					};
+					C54B86421C63C26700DC67D7 = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = C54B86231C63C26700DC67D7;
+					};
+				};
+			};
+			buildConfigurationList = C54B861F1C63C26700DC67D7 /* Build configuration list for PBXProject "yourColby" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C54B861B1C63C26700DC67D7;
+			productRefGroup = C54B86251C63C26700DC67D7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C54B86231C63C26700DC67D7 /* yourColby */,
+				C54B86371C63C26700DC67D7 /* yourColbyTests */,
+				C54B86421C63C26700DC67D7 /* yourColbyUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C54B86221C63C26700DC67D7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C54B86321C63C26700DC67D7 /* LaunchScreen.storyboard in Resources */,
+				C54B862F1C63C26700DC67D7 /* Assets.xcassets in Resources */,
+				C54B862D1C63C26700DC67D7 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C54B86361C63C26700DC67D7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C54B86411C63C26700DC67D7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C54B86201C63C26700DC67D7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C54B862A1C63C26700DC67D7 /* ViewController.swift in Sources */,
+				C54B86281C63C26700DC67D7 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C54B86341C63C26700DC67D7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C54B863D1C63C26700DC67D7 /* yourColbyTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C54B863F1C63C26700DC67D7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C54B86481C63C26700DC67D7 /* yourColbyUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C54B863A1C63C26700DC67D7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C54B86231C63C26700DC67D7 /* yourColby */;
+			targetProxy = C54B86391C63C26700DC67D7 /* PBXContainerItemProxy */;
+		};
+		C54B86451C63C26700DC67D7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C54B86231C63C26700DC67D7 /* yourColby */;
+			targetProxy = C54B86441C63C26700DC67D7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		C54B862B1C63C26700DC67D7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C54B862C1C63C26700DC67D7 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C54B86301C63C26700DC67D7 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C54B86311C63C26700DC67D7 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C54B864A1C63C26700DC67D7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C54B864B1C63C26700DC67D7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C54B864D1C63C26700DC67D7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = yourColby/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = SBL.yourColby;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C54B864E1C63C26700DC67D7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = yourColby/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = SBL.yourColby;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		C54B86501C63C26700DC67D7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = yourColbyTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = SBL.yourColbyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/yourColby.app/yourColby";
+			};
+			name = Debug;
+		};
+		C54B86511C63C26700DC67D7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = yourColbyTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = SBL.yourColbyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/yourColby.app/yourColby";
+			};
+			name = Release;
+		};
+		C54B86531C63C26700DC67D7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = yourColbyUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = SBL.yourColbyUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = yourColby;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		C54B86541C63C26700DC67D7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = yourColbyUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = SBL.yourColbyUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = yourColby;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C54B861F1C63C26700DC67D7 /* Build configuration list for PBXProject "yourColby" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C54B864A1C63C26700DC67D7 /* Debug */,
+				C54B864B1C63C26700DC67D7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C54B864C1C63C26700DC67D7 /* Build configuration list for PBXNativeTarget "yourColby" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C54B864D1C63C26700DC67D7 /* Debug */,
+				C54B864E1C63C26700DC67D7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		C54B864F1C63C26700DC67D7 /* Build configuration list for PBXNativeTarget "yourColbyTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C54B86501C63C26700DC67D7 /* Debug */,
+				C54B86511C63C26700DC67D7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		C54B86521C63C26700DC67D7 /* Build configuration list for PBXNativeTarget "yourColbyUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C54B86531C63C26700DC67D7 /* Debug */,
+				C54B86541C63C26700DC67D7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C54B861C1C63C26700DC67D7 /* Project object */;
+}
